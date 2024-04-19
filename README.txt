@@ -1,0 +1,1 @@
+A typing test App is used to check how fast the user can type the word in a given amount of time. We will be Creating a typing Test App using JavaScript that presents a simple typing challenge and finds the performance of typing by calculating the Characters Per Minute (CPM), Words Per Minute (WPM) and the accuracy of the typed characters.
